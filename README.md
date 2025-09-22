@@ -34,7 +34,7 @@ The project replicates a real e-commerce experience, with sorting, filtering, pa
 ---
 
 ## 🌐 Live Preview
-👉 [View Demo](https://diana2369.github.io/react_phone-catalog_finished/)
+👉 [View Demo](https://diana2369.github.io/phone-catalog/)
 ⚠️ Make sure the link is publicly accessible and tested in incognito mode.
 
 ---
@@ -62,5 +62,5 @@ This project is based on a design from Figma:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/Diana2369/react_phone-catalog_finished.git
-cd react_phone-catalog_-finished
+git clone https://github.com/Diana2369/phone-catalog.git
+cd phone-catalog
